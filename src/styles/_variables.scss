@@ -9,30 +9,30 @@ $bold-font-weight: 700;
 $extbold-font-weight: 800;
 $base-letter-spacing: 0.5px;
 
-//Colors Variables
+// Colors Variables
+$color-blue: #063160;
+$color-blue-dark: #0D4379;
+$color-blue-darker: #021222;
+$color-pink: #FCE6E6;
 
 $color-white: #fff;
 $color-gray: #fcfcfc;
 $color-cyan: #808080;
 $color-cyan-dark: #f3f3f3;
 $color-cyan-light: #5f5f5f;
-//overwritten by site.json -> theme -> primary_color if set
-$color-primary: #e53b2a;
-$color-primary-light: #e6ebf4;
-$color-primary-dark: mix($color-primary, $color-white, 12%);
+$color-primary: $color-blue;
+$color-primary-light: $color-pink;
+$color-primary-dark: $color-blue-dark;
 $color-gray-light: mix($color-primary, $color-white, 2%);
 $color-gray-dark: mix($color-primary, $color-white, 6%);
-//overwritten by site.json -> theme -> secondary_color if set
-$color-secondary: #fffbf3;
+$color-secondary: $color-blue-darker;
 $color-secondary-light: mix($color-primary, $color-white, 16%);
 $color-secondary-dark: #f7f8fa;
-//overwritten by site.json -> theme -> anchor_color if set
-$color-anchor: #ffba08;
+$color-anchor: $color-blue-dark;
 $color-anchor-dark: mix($color-anchor, $color-white, 30%);
-//overwritten by site.json -> theme -> background_effects_color if set
-$color-background-effects: #faaa8f;
+$color-background-effects: $color-pink;
 
-$color-header: #000;
+$color-header: $color-blue-darker;
 $color-header-light: mix($color-anchor, $color-white, 4%);
 $color-header-dark: mix($color-anchor, $color-white, 12%);
 $color-text: #282828;
@@ -47,6 +47,6 @@ $base-margin: 1rem;
 // Transition Variables
 $base-transition: all 0.5s ease-in-out;
 
-//Others Varibles
+// Others Variables
 $base-border-width: 1px;
 $base-border-radius: 8px;

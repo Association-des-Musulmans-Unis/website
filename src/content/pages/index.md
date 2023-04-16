@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Home
+title: Accueil
 seo:
   page_description:
   canonical_url:
@@ -11,110 +11,64 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Construisons ensemble la Mosquée Des Alpes!
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
-    image: /images/hero/hero-image-2.png
+      Construisons ensemble la Mosquée des Alpes, un projet qui sollicite la générosité et l'engagement de tous, afin de créer un lieu de culte où la foi et la nature se rejoignent pour élever les esprits et les cœurs !
+    image: /images/amu/vue_3d.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
-      link: /signup/
+      text: Faire un don
+      link: https://www.helloasso.com/associations/association-des-musulmans-unis/collectes/centre-culturel-et-cultuel-mosquee-de-teisseire?_gl=1%2a15105gs%2a_ga%2aMTE4MjIwMjkyNy4xNjgxMzE3MzYy%2a_ga_TKC826G3G2%2aMTY4MTY0Nzk4Ny41LjEuMTY4MTY0ODQ4OC4wLjAuMA..#tickets
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Le projet en quelques
+    title_suffix: chiffres
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      Découvrez les éléments clés du projet de la Mosquée des Alpes, un projet ambitieux qui sollicite la générosité et l'engagement de tous.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
+      - prefix: 
+        number: 2100
+        suffix: m²
+        text: Surface de la Mosquée
       - prefix:
-        number: 2016
+        number: 1300
         suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
+        text: Nombre de personnes
+      - prefix: 1
+        number:
+        suffix: 
+        text: Service de Pompes funèbres
+      - prefix: 1
+        number:
+        suffix:
+        text: Piscine pour les soeurs
+      
   - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
+    image: /images/amu/video_01.jpg
     image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
-  - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
-    remove_top_padding: true
-    description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
-  - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
-    title: Email Campaign in one minute
-    description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
-    button:
-      link: /signup
-      text: Try This Free
-    reversed: false
-  - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
-    title: See every Lead in one Place
-    description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
-    button:
-      link: /signup
-      text: Try This Free
-    reversed: true
-  - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
-    image_alt: File upload
-    title: 100% free uploads
-    description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
-    button:
-      link: /signup
-      text: Try This Free
-    reversed: false
+    video_url: https://player.vimeo.com/video/812404788?h=c0c8bf5ca9&badge=0&autopause=0&player_id=0&app_id=58479
   - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
+    title: Ils soutiennent
+    title_suffix: le projet
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Plusieurs personnalités ont déjà soutenu le projet de la Mosquée des Alpes, et nous sommes heureux de les compter parmi nous.
     slider:
-      - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
+      - image: /images/amu/imam1.jpg
+        image_alt: Profile photo of Imam Rachid El Jay
+        author: Imam Rachid El Jay
+        designation: Brest
         message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
-      - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
+          La Mosquée des Alpes est plus qu'une mosquée. C'est un centre cultuel et culturel qui réponds à un vrai besoin de notre communauté. Quoi que vous puissiez donner, petit ou grand, faites-le avec le cœur et faites un don aujourd'hui !
+      - image: /images/amu/imam2.png
+        image_alt: Profile photo of Imam Allal Jamad
+        author: Imam Allal Jamad
+        designation: Grenoble
         message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
-      - image: /images/testimonial/logo-4.jpg
+          Cela fait plus de 35 ans que je suis Imam sur Grenoble. Il est temps de laisser un héritage à cette jeunesse! Si votre famille ou vous même, soutenez ce projet, vous serez surpris de voir le résultat de votre don ! Faites-le pour Allah !
+      - image: /images/amu/imam3.png
         image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+        author: Imam Abdelmonaïm Boussenna
+        designation: Roubaix
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+          J'y suis allé, je l'ai vue. Une incroyable communauté qui fait un remarquable travail et diffuse un message de paix. Vous avez l'honneur et l'opportunité de faire partie de ce projet, faites un don et obtenez une grande récompense inshAllah !
 ---

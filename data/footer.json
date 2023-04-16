@@ -1,7 +1,5 @@
 {
-  "logo": "/images/footer-logo.svg",
-  "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "Association des Musulmans Unis",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
@@ -26,23 +24,36 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "Faire un don",
+      "links": [
+        {
+          "link": "https://www.helloasso.com/associations/association-des-musulmans-unis/collectes/centre-culturel-et-cultuel-mosquee-de-teisseire?_gl=1%2a15105gs%2a_ga%2aMTE4MjIwMjkyNy4xNjgxMzE3MzYy%2a_ga_TKC826G3G2%2aMTY4MTY0Nzk4Ny41LjEuMTY4MTY0ODQ4OC4wLjAuMA..#tickets",
+          "text": "Faire un don avec HelloAsso"
+        },
+        {
+          "link": "https://www.paypal.com/paypalme/assoamu",
+          "text": "Faire un don avec Paypal"
+        }
+      ]
+    },
+    {
+      "title": "Menu",
       "links": [
         {
           "link": "/",
-          "text": "Home"
+          "text": "Accueil"
         },
         {
-          "link": "/features",
-          "text": "Features"
-        },
-        {
-          "link": "/pricing",
-          "text": "Price"
+          "link": "/projet",
+          "text": "Le projet"
         },
         {
           "link": "/about",
-          "text": "About"
+          "text": "L'association"
+        },
+        {
+          "link": "/blog",
+          "text": "En direct du chantier"
         }
       ]
     },
@@ -50,25 +61,12 @@
       "title": "Community",
       "links": [
         {
-          "link": "/blog",
-          "text": "Blog"
+          "link": "https://www.instagram.com/mosqueedesalpes/",
+          "text": "Instagram"
         },
         {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
-        }
-      ]
-    },
-    {
-      "title": "Company",
-      "links": [
-        {
-          "link": "/contact",
-          "text": "Contact"
-        },
-        {
-          "link": "/privacy",
-          "text": "Privacy Policy"
+          "link": "https://www.facebook.com/AssoAMU/",
+          "text": "Facebook"
         }
       ]
     }

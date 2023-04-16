@@ -1,9 +1,8 @@
 {
-  "site_title": "Sendit",
-  "description": "A polished, marketing website template built with Astro",
+  "site_title": "Mosquée des Alpes",
+  "description": "Mosquée des Alpes - Associaion des Musulmans Unis",
   "favicon_icon": "/images/favicon.ico",
   "favicon_image": "/images/favicon.png",
-  "twitter_site": "@twitter_site",
   "image": "/images/feature/feature-hero.png",
   "image_alt": "/images/feature/feature-hero.png"
 }

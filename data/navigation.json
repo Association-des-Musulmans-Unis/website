@@ -1,33 +1,25 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/images/amu/logo_menu.svg",
   "items": [
     {
       "link": "/",
-      "text": "Home"
+      "text": "Accueil"
     },
     {
-      "link": "/features/",
-      "text": "Features"
-    },
-    {
-      "link": "/pricing/",
-      "text": "Pricing"
+      "link": "/projet/",
+      "text": "Le projet"
     },
     {
       "link": "/about/",
-      "text": "About"
+      "text": "L'Association"
     },
     {
       "link": "/blog/",
-      "text": "Blog"
-    },
-    {
-      "link": "/contact/",
-      "text": "Contact"
+      "text": "En direct du chantier"
     }
   ],
   "btn": {
-    "link": "/signup/",
-    "text": "Get Started"
+    "link": "https://www.helloasso.com/associations/association-des-musulmans-unis/collectes/centre-culturel-et-cultuel-mosquee-de-teisseire?_gl=1%2a15105gs%2a_ga%2aMTE4MjIwMjkyNy4xNjgxMzE3MzYy%2a_ga_TKC826G3G2%2aMTY4MTY0Nzk4Ny41LjEuMTY4MTY0ODQ4OC4wLjAuMA..#tickets",
+    "text": "Faire un don"
   }
 }
